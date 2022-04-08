@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\КПЗ\LR_11\bin\Debug\net5.0\LR_11.exe
+C:\Users\user\Desktop\КПЗ\LR_11\bin\Debug\net5.0\LR_11.deps.json
+C:\Users\user\Desktop\КПЗ\LR_11\bin\Debug\net5.0\LR_11.runtimeconfig.json
+C:\Users\user\Desktop\КПЗ\LR_11\bin\Debug\net5.0\LR_11.runtimeconfig.dev.json
+C:\Users\user\Desktop\КПЗ\LR_11\bin\Debug\net5.0\LR_11.dll
+C:\Users\user\Desktop\КПЗ\LR_11\bin\Debug\net5.0\ref\LR_11.dll
+C:\Users\user\Desktop\КПЗ\LR_11\bin\Debug\net5.0\LR_11.pdb
+C:\Users\user\Desktop\КПЗ\LR_11\obj\Debug\net5.0\LR_11.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\КПЗ\LR_11\obj\Debug\net5.0\LR_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\КПЗ\LR_11\obj\Debug\net5.0\LR_11.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\КПЗ\LR_11\obj\Debug\net5.0\LR_11.AssemblyInfo.cs
+C:\Users\user\Desktop\КПЗ\LR_11\obj\Debug\net5.0\LR_11.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\КПЗ\LR_11\obj\Debug\net5.0\LR_11.dll
+C:\Users\user\Desktop\КПЗ\LR_11\obj\Debug\net5.0\ref\LR_11.dll
+C:\Users\user\Desktop\КПЗ\LR_11\obj\Debug\net5.0\LR_11.pdb
+C:\Users\user\Desktop\КПЗ\LR_11\obj\Debug\net5.0\LR_11.genruntimeconfig.cache
